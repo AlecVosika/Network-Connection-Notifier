@@ -8,8 +8,9 @@ pip install -r requirements.txt
 ```bash
 Add the IP you would like to monitor at the top of the main.py file. 
 
-example: ip1 = ["user1", '192.168.1.2', 'connected']
-devices = (ip1)
+example:
+    ip1 = ["user1", '192.168.1.2', 'connected']
+    devices = (ip1)
 
 do not touch the part part that says 'connection' as it is needed for the program to function.
 ```
